@@ -1,0 +1,1 @@
+All fonts copyright to the original font creator.
