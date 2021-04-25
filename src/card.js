@@ -1,3 +1,8 @@
+/**
+ * original created by FaizBastomi and ZefianAlfian
+ * don't remove this!!
+ */
+
 const { createCanvas, loadImage, registerFont } = require('canvas');
 const fs = require('fs');
 

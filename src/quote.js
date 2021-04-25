@@ -1,3 +1,8 @@
+/**
+ * original created by FaizBastomi and ZefianAlfian
+ * don't remove this!!
+ */
+
 const fetch = require('node-fetch');
 const fs = require('fs');
 const { createCanvas, loadImage, registerFont } = require('canvas');
